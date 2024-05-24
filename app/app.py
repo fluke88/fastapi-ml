@@ -1,8 +1,5 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from dataclasses import dataclass
-from typing import List
-
 from ml.model import load_staff
 
 model = None
