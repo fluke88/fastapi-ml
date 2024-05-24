@@ -32,7 +32,7 @@ class PredictParams(BaseModel):
                 "area": 82.6,
                 "kitchen_area": 10.8,
                 "object_type": 1,
-                "studio_apartment": 1,
+                "studio_apartment": 0,
                 "region": "Санкт-Петербург"
             }
         }
